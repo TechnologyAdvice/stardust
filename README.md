@@ -15,5 +15,6 @@ Name of your current Stardust git remote. Use `git remote -v` to find it.
 
 ### `<new-url>`
 The url of the new repo location:
-   - *ssh* git@github.com:Semantic-Org/Semantic-UI-React.git
-   - *https* https://github.com/Semantic-Org/Semantic-UI-React.git
+
+**ssh:** `git@github.com:Semantic-Org/Semantic-UI-React.git`  
+**https:** `https://github.com/Semantic-Org/Semantic-UI-React.git`
