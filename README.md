@@ -2,7 +2,7 @@
 
 See https://github.com/Semantic-Org/Semantic-UI-React
 
-## Attention Developers
+## :warning: Attention Developers :warning:
 
 Update any existing local clones to point to the new repository URL. You can do this by using `git remote` on the command line:
 
